@@ -14,4 +14,4 @@ permalink: /about-team/
 
  **我们来自**
 ---
-成都市实验外国语学校
+[成都市实验外国语学校](http://www.cefls.cn/ "我们的母校")
