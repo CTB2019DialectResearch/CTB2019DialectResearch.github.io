@@ -1,0 +1,19 @@
+---
+layout: post
+title: 关于四川和我们的研究
+---
+
+成都是四川的省会，西南地区的战略高地，更是巴蜀文化的聚宝盆。而俚语，正以其非正式性、世俗性、发展迅速性，最及时、直接、真实地体现着成都市民的生存状态、生活方式和生命态度，记录着成都源远流长的蜀文明的足迹，具有深厚的文化底蕴和极高的研究价值。
+但随着时代的发展和社会的变迁，普通话的推广、外来人口的冲击等多种因素正潜移默化地影响着成都方言俚语的生存现状，很多老方言俚语已经逐渐失传，反映出传统市井文化在现代社会面临的窘境。我们将以语言生态观为理论视角，以调查法为主要方法，研究成都方言俚语的存在现状如何，市民对其使用情况与情感认知如何，并分析产生如此现状的原因，最终达到我们保护俚语、保护方言的宗旨。
+愿你与我们携手共进!
+附赠9张方言小卡片啦!
+
+![alt text](https://github.com/CTB2019DialectResearch/media-files/blob/master/intro1/psb.jpg “卡片一”)
+![alt text](https://github.com/CTB2019DialectResearch/media-files/blob/master/intro1/psb1.jpg “卡片二”)
+![alt text](https://github.com/CTB2019DialectResearch/media-files/blob/master/intro1/psb2.webp “卡片三”)
+![alt text](https://github.com/CTB2019DialectResearch/media-files/blob/master/intro1/psb3.jpg “卡片四”)
+![alt text](https://github.com/CTB2019DialectResearch/media-files/blob/master/intro1/psb4.jpg “卡片五”)
+![alt text](https://github.com/CTB2019DialectResearch/media-files/blob/master/intro1/psb5.jpg “卡片六”)
+![alt text](https://github.com/CTB2019DialectResearch/media-files/blob/master/intro1/psb6.jpg “卡片七”)
+![alt text](https://github.com/CTB2019DialectResearch/media-files/blob/master/intro1/psb8.gif “卡片八”)
+![alt text](https://github.com/CTB2019DialectResearch/media-files/blob/master/intro1/psb9.gif “卡片九”)
